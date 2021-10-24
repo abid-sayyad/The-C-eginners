@@ -7,7 +7,8 @@ Enlist your Contributions below :
 
 | Program Name  | Details       |
 | ------------- | ------------- |
-| main       | hello  |
+| main          | hello  |
 | User 2        | printing alphabets  |
-| add | adding |
-| ex1 | table |
+|for loop       | for loop run hota ha or kya hi hoga|
+|switch         | switch kese use krte ha koi bta do|
+
